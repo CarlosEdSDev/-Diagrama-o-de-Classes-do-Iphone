@@ -1,5 +1,5 @@
 # Diagrama de Classe do Iphone
-###   Este é um projeto requirido pela DIO como forma de desafio
+###   Este é um projeto requirido pela DIO em um de seus cursos  
 ## Desafio 
 ### POO - Desafio
 Modelagem e diagramação da representação em UML e Código no que se refere ao componente iPhone.
